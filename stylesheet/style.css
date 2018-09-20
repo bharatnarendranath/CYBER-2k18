@@ -10,9 +10,10 @@ body {
     content: '';
     height: 100vh;
     width: 100%;
-    /* background-image: url(https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); */
-    /* background-image: url(https://images.pexels.com/photos/230659/pexels-photo-230659.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); */
-    background-image: url(https://images.pexels.com/photos/697055/pexels-photo-697055.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    /* background-image: url(https://images.pexels.com/photos/34153/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260); */
+    
+    /* background-image: url(https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); */
+    background-image: url(https://image.ibb.co/gzOBup/showcase.jpg);
 
     background-size: cover;
     background-repeat: no-repeat;
@@ -52,17 +53,28 @@ body {
 }
 
 .content .title {
-    font-size: 5.2rem;
+    font-size: 4.2rem;
     margin-top: 1rem;
-    font-family: 'Monoton', cursive;
-    color:black;
+    /* font-family: 'Monoton', cursive; */
+    /* font-family: 'Bungee Inline', cursive; */
+    /* font-family: 'Trade Winds', cursive; */
+    font-family: 'Trade Winds', cursive;
+
+
+    font-weight: 700;
+
+
+    /* color:#eb2929; */
 
 }
 
 .content .text {
     font-size: 3.2rem;
-    line-height: 1.7;
+    /* line-height: 1.7; */
     margin-top: 1rem;
+    font-family: 'Lobster Two', cursive;
+    color: black;
+
 }
 
 .container {
@@ -97,6 +109,13 @@ body {
 .bg-dark {
     background: #333;
     color: #f4f4f4;
+}
+
+.end{
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 1.5rem;
 }
 
 footer {
