@@ -11,7 +11,8 @@ body {
     height: 100vh;
     width: 100%;
     /* background-image: url(https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); */
-    background-image: url(https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&h=750&w=1260);
+    /* background-image: url(https://images.pexels.com/photos/230659/pexels-photo-230659.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); */
+    background-image: url(https://images.pexels.com/photos/697055/pexels-photo-697055.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
 
     background-size: cover;
     background-repeat: no-repeat;
@@ -47,15 +48,19 @@ body {
 
 .content .logo {
     height: 180px;
-    width: 180px;
+    /* width: 180px; */
 }
 
 .content .title {
-    font-size: 2.2rem;
+    font-size: 5.2rem;
     margin-top: 1rem;
+    font-family: 'Monoton', cursive;
+    color:black;
+
 }
 
 .content .text {
+    font-size: 3.2rem;
     line-height: 1.7;
     margin-top: 1rem;
 }
